@@ -1,0 +1,28 @@
+_repo: Is-Mars-habitable--A-critical-examination-of-Professor-Percival-Lowell-s-book--Mars-and-its-c__10855
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Alfred Russel
+    alias: Wallace, A. R. (Alfred Russel)
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet)'
+- !lcc 'QB'
+- !lcsh 'Lowell, Percival, 1855-1916. Mars and its canals'
+- GITenberg
+title: Is Mars habitable? A critical examination of Professor Percival Lowell's book
+  "Mars and its canals," with an alternative explanation
+url: http://www.gutenberg.org/ebooks/10855
